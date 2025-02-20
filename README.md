@@ -1,4 +1,4 @@
-[![MasterHead](http:[ile istediginiz fotoğrafın linkini buraya yazın](https://i.pinimg.com/736x/75/ff/d6/75ffd69946b71f574a50c0240e46c414.jpg))
+[![MasterHead](http:https://i.pinimg.com/736x/75/ff/d6/75ffd69946b71f574a50c0240e46c414.jpg)
 <h1 align="center">Hi 👋, I'm Yavuz Selim Serdengeçti</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
